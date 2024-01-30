@@ -16,11 +16,11 @@ This is a personal naive AIGC project, which contain some interesting results th
 
 ## Personalized QR code
 
-<center class="half"> <img src="./assert/figure/QR_COde.png", width="80%"> </center>
+<center class="half"> <img src="./assert/figure/QR_Code.png", width="80%"> </center>
 
 
 
-##reference:
+## reference:
 
 :sparkles: https://www.youtube.com/watch?v=zOMxSlRyuVk
 
