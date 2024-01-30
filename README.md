@@ -12,19 +12,11 @@ This is a personal naive AIGC project, which contain some interesting results th
 
 ## Personalized QR code
 
-**Realistic:**
-
-<center class="half">    <img src=".\assert\figure\QR-3944867415.png" width="300"/><img src=".\assert\figure\QR-1953590965.png" width="300"/><img src=".\assert\figure\QR-1953590967.png" width="300"/> </center>
-
-**Anime:**
-
-<center class="half">    <img src=".\assert\figure\QR-314336784 (2).png" width="300"/><img src=".\assert\figure\QR-3799235014.png" width="300"/><img src=".\assert\figure\QR-314336786.png" width="300"/> </center>
-
-
+<center class="half"> <img src="./assert/figure/Portroit.png", width="80%"> </center>
 
 ## Personalized portrait
 
-<center class="half"> <img src="./assert/figure/图片5.png"> </center>
+<center class="half"> <img src="./assert/figure/QR_COde.png", width="80%"> </center>
 
 
 
